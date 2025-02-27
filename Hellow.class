@@ -1,0 +1,9 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
+public class Hellow {
+   public Hellow() {
+   }
+
+   public static void main(String[] var0) {
+      System.out.println("File created: ");
+   }
+}
